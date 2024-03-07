@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
 <div class="address-box tittle mb-0 bg-img4 ml-0 ml-md-5">
                         <!--overlay-->
                         <div class="bg-overlay opacity-8"></div>
