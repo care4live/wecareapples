@@ -3,7 +3,7 @@
                         <div class="bg-overlay opacity-8"></div>
                         <div class="address-text alt-font text-md-left text-white position-relative wow fadeInUp">
                             <!--title-->
-                            <h2 class="mb-4 main-font map-text text-capitalize">Green Apples Customer store 24/7 Help Desk Help center apples customer-service our dedicated team is here to help you get in touch with us</h2>
+                            <h2 class="mb-4 main-font map-text text-capitalize">Eating Green Apples order us/ Customer store 24/7 Help Desk Help center apples customer-service our dedicated team is here to help you get in touch with us</h2>
                             <!--Address-->
                             <p class="mb-3">Address :50, Park Rd, Soundarya Colony, , , </p>
                             <!--Phone-->
