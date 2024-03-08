@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
-<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
-<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
-<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
-<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr"><!--<![endif]-->
+
 
 <!DOCTYPE html><html><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/><title>10 Amazing Health Benefits of Green Apples for Elders - Emoha</title><meta name="description" content="Green apples offer multiple health like improved immunity, prevention of cancer. Know 10 such health benefits of green apples for elders now!"/><meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1, "/><meta name="og:locale" content="en_US"/><meta name="og:type" content="article"/><meta name="og:title" content="10 Amazing Health Benefits of Green Apples for Elders"/><meta name="og:description" content="Green apples offer multiple health like improved immunity, prevention of cancer. Know 10 such health benefits of green apples for elders now!"/><meta name="og:url" content="https://care4live.github.io/wecareapples/blogs/nutrition/amazing-health-benefits-of-green-apples-for-elders"/><meta name="og:site_name" content="Emoha Blogs"/><meta name="article:published_time" content="2021-04-15T00:00:00+00:00"/><meta name="article:modified_time" content="2023-12-11T14:27:24+00:00"/><meta name="og:image:type" content="image/jpeg"/><meta name="author" content="Emoha"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:label1" content="Written by"/><meta name="twitter:data1" content="Emoha"/><meta name="twitter:label2" content="Est. reading time"/><meta name="twitter:data2" content="6 minutes"/><style>
           body {
